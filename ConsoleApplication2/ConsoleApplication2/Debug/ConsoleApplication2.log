@@ -1,0 +1,5 @@
+﻿  Insertion sort.cpp
+c:\users\jvanj\source\repos\consoleapplication2\consoleapplication2\insertion sort.cpp(30): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\consoleapplication2\consoleapplication2\insertion sort.cpp(39): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\jvanj\source\repos\consoleapplication2\consoleapplication2\insertion sort.cpp(23): warning C4101: 'aux': variável local não referenciada
+  ConsoleApplication2.vcxproj -> C:\Users\jvanj\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
